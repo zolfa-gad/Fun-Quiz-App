@@ -1,16 +1,30 @@
-# quize_app
+## Fun Quiz App
 
-A new Flutter project.
+This is a simple B
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img src="https://github.com/zolfa-gad/Fun-Quiz-App/blob/master/assets/images/screenshots/Google Pixel 4 XL Screenshot 1.png" width="30%" />
+     &nbsp;&nbsp;
+  <img src="https://github.com/zolfa-gad/Fun-Quiz-App/blob/master/assets/images/screenshots/Google Pixel 4 XL Screenshot 2.png" width="30%" />
+     &nbsp;&nbsp;
+       <img src="https://github.com/zolfa-gad/Fun-Quiz-App/blob/master/assets/images/screenshots/Google Pixel 4 XL Screenshot 3.png" width="30%" />
+     &nbsp;&nbsp;
+       <img src="https://github.com/zolfa-gad/Fun-Quiz-App/blob/master/assets/images/screenshots/Google Pixel 4 XL Screenshot 4.png" width="30%" />
+     &nbsp;&nbsp;
+       <img src="https://github.com/zolfa-gad/Fun-Quiz-App/blob/master/assets/images/screenshots/Google Pixel 4 XL Screenshot 5.png" width="30%"  />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Feedback
+
+If you have any comments or feedback, please Connect with me on [LinkedIn](https://www.linkedin.com/in/zolfa-gad-788493238/)
+
+
+## License
+
+[MIT License](LICENSE)
+
+
