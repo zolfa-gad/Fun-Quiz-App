@@ -4,6 +4,17 @@ This is a simple quiz app made with Flutter just for fun, you can choose any cat
 You can play it with your friends also you can see who gets the highest score, challenge others and have fun together.
 
 
+# Features 
+
+- Specify the number of questions you want.
+- Choose your favorite category you want or leave it random.
+- Choose the difficulty you prefer or leave it random.
+- Scroll between questions back and forward, but you can't scroll forward until you select an answer.
+- Can know the correct answer right away.
+- Every time your answer is correct you get 5 points score.
+- The highest score would be saved every round.
+
+
 # Screenshots
 
 <p float="left">
@@ -32,7 +43,7 @@ You can play it with your friends also you can see who gets the highest score, c
 # Get The App
 
 Get this app for 
-<a href="/assets/download/AppAPK.rar" download = "/assets/download/AppAPK.rar"> Android/IOS </a>
+<a href="/assets/download/" download > Android/IOS </a>
 
 
 # Feedback
