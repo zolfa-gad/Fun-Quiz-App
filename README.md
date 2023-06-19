@@ -6,6 +6,8 @@ You can play it with your friends also you can see who gets the highest score, c
 
 # Features 
 
+- Enable or disable dark mode.
+- Choose your favorite color theme.
 - Specify the number of questions you want.
 - Choose your favorite category you want or leave it random.
 - Choose the difficulty you prefer or leave it random.
